@@ -1,13 +1,13 @@
 {
   "name": "clase-1",
-  "version": "1.0.0",
-  "description": "Proyecto Hola mundo!",
+  "version": "1.1.0",
+  "description": "Proyecto curso de git de mernstack 2!",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "cowsay": "^1.5.0",
     "dotenv": "^10.0.0"
